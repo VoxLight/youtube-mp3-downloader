@@ -1,3 +1,13 @@
+# ATTENTION
+----------------------
+----------------------
+# REWORKED FORK
+# THIS FOR IS COMPLETELY REWORKED INTO A LIBRARY.
+# FORKED FROM:
+# https://github.com/shubhamaggarwal/youtube-mp3-downloader
+----------------------
+----------------------
+# ATTENTION!!!
 youtube-mp3-downloader
 ----------------------
 ----------------------
